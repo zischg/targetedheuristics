@@ -10,4 +10,9 @@ The synthetic vulnerability function is compared with other vulnerability functi
 (2) an individual vulnerability function calibrated with region-specific data, and 
 (3) the vulnerability function used in flood risk management by the Swiss government. 
 
+The Python code contains functions of several flood vulnerability functions, including the targeted heuristics function.
+The file "vulnerability_function.csv" contains the relative values (degree of damage) of the targeted heuristics vulnerability function.
+The file "damageestimation_heuristic.csv" contains the absolute damage estimations by the insurance loss estimation expert.
+
+
 Please cite as Zischg, A.; Röthlisberger, V.; Mosimann, M.; Profico, R.; Bresch, D.; Fuchs, S.; Kauzlaric, M.; Keiler, M. (in review): Evaluating targeted heuristics in flood impact model chains
